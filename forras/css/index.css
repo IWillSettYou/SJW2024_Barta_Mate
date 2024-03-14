@@ -1,4 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Marhey:wght@300..700&display=swap");
+.font{
+    font-family: "Marhey", sans-serif;
+    color:#1283b9 ;
+    text-decoration-style: wavy;
+    text-decoration-color: #1283b9;
+    text-decoration-line: underline;
+    font-variant: small-caps;
 
+}
+.img{
+    margin-bottom: 10px;
+    box-shadow: #06435f 1px 1px 3px;
+
+}
 .header{
     height: 400px;
 
@@ -9,6 +23,11 @@
     background-image: url("../img/balaton_bg.jpg");
     background-repeat:no-repeat;
     background-size: 100%;   
+    font-family: "Marhey", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 5px 5px 10px black;
+    color: white;
 }
 html{
     height: 100%;
@@ -17,3 +36,8 @@ html{
     background-color: #06435f;
     color: white;
 }
+.cont{
+    margin-top: 20px;
+}
+
+
