@@ -1,0 +1,19 @@
+
+.header{
+    height: 400px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-image: url("../img/balaton_bg.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;   
+}
+html{
+    height: 100%;
+}
+.bigNav{
+    background-color: #06435f;
+    color: white;
+}
